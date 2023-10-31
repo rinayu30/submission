@@ -1,6 +1,6 @@
 # Submission proyek akhir Dicoding: Belajar Analisis Data dengan Python 
 
-Repository ini berisi proyek yang saya kerjakan untuk submission proyek analisis data [Dicodinng](https://www.dicoding.com/). 
+Repository ini berisi proyek yang saya kerjakan untuk submission proyek analisis data [Dicoding](https://www.dicoding.com/). 
 Deployment in 
 
 ## Setup environment
