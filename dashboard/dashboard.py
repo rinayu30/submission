@@ -54,7 +54,7 @@ st.header('Air Quality Index Dashboard :cloud:')
 
 st.subheader(' Air Quality Count by Station')
 
-# Membuat list yang berisi kelipatan 2000 dari 0 sampai 10000
+# Membuat list yang berisi kelipatan 5000 dari 0 sampai 30000
 yticks = [x for x in range(0, 30001, 5000)]
 
 fig, ax = plt.subplots(figsize=(30, 15))
