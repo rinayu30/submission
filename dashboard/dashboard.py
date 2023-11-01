@@ -21,7 +21,7 @@ def create_df_time(df):
     return df_time
 
 #mengambil dataset
-aq_df = pd.read_csv("aq_df.csv")
+aq_df = pd.read_csv("https://github.com/rinayu30/submission/blob/main/dashboard/aq_df.csv")
 aq_df.sort_values(by="datetime")
 aq_df.reset_index(inplace=True)
 aq_df["datetime"] = pd.to_datetime(aq_df["datetime"])
