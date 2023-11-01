@@ -15,6 +15,7 @@ streamlit run dashboard.py
 ```
 
 ## Tautan dashboard
+https://airqualityidx.streamlit.app/
 
 ## Screenshot
 ![image](https://github.com/rinayu30/submission/assets/58639705/682a5702-5956-4d7f-9131-d15bd4e3d9fa)
